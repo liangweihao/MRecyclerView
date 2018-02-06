@@ -51,5 +51,6 @@
 
 
 
-![image](https://github.com/liangweihao/MRecyclerView/blob/master/自定义多功能RecylerView-新思路.gif?raw=true)
+![image](https://github.com/liangweihao/MRecyclerView/blob/master/video2gif_20180206_095510.gif?raw=true)
 
+true
